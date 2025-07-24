@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="//github.com/emotionmultiplayer/elauncher">
-    <img src="https://img.shields.io/badge/Docs-9083D2?logoColor=1C1C29" />
+    <img src="https://img.shields.io/badge/Docs-1C1C29?logoColor=1C1C29" />
   </a>
   <a href="https://github.com/emotionmultiplayer/elauncher/releases">
     <img src="https://img.shields.io/static/v1?label=&message=Download&color=1C1C29" />
